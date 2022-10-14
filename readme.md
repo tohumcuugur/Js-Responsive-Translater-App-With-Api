@@ -13,4 +13,4 @@ This is a javascript translater application with many functionalitys.
 
 
 <h1>FOR DEMO</h1>
-<h2></h2>
+<h2>https://ugurt-translater-app.netlify.app/</h2>
